@@ -1,12 +1,12 @@
 ## 👋 Hey there! Welcome to my corner of GitHub
 
-I'm **Pham Trung Thang** – a curious soul who loves turning wires, code, and a bit of coffee ☕ into smart things that blink, talk, or recognize your face.  
+I'm **Pham Trung Thang**  
 
-🚀 I tinker with **embedded systems**, **IoT**, and **on-device AI** — from STM32s blinking LEDs to Raspberry Pis that understand your voice or unlock your door 👀.
+🚀 I tinker with **embedded systems**, **IoT**, and **on-device AI**  👀.
 
 ---
 
-### 💻 Some things I build for fun (and learning):
+### 💻 Some things I built 
 - 🔊 Voice-controlled smart home (talk to your room, it listens!)
 - 🔐 Face recognition door lock (no keys? no problem!)
 - 💡 Music-reactive LED system with STM32 (a.k.a. dancing lights)
@@ -21,10 +21,5 @@ I'm **Pham Trung Thang** – a curious soul who loves turning wires, code, and a
 
 ---
 
-### 📫 Let's connect!
-- GitHub: [HadeZ04](https://github.com/HadeZ04)
-- LinkedIn: *(Add your link here!)*
 
----
-
-_⚡ Fun fact: My code might be messy, but my LEDs blink in perfect rhythm._ 😄
+_⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
