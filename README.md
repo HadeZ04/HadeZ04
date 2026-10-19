@@ -7,10 +7,10 @@ I'm **Pham Trung Thang**
 ---
 
 ### 💻 Some things I built 
-- 🔊 Voice-controlled smart home (talk to your room, it listens!)
-- 🔐 Face recognition door lock (no keys? no problem!)
-- 💡 Music-reactive LED system with STM32 (a.k.a. dancing lights)
-- 🧠 AI that finds tumors on X-ray images (cool *and* useful)
+- 🔊 Voice-controlled smart home 
+- 🔐 Face recognition door lock 
+- 💡 Music-reactive LED system with STM32 
+- 🧠 AI that finds tumors on X-ray images 
 
 ---
 
